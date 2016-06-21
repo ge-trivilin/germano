@@ -3,4 +3,6 @@
 
 	echo '<h1>Super projeto!</h1>';
 
-	echo 'Este e um projeto qualquer';
+	echo 'Este é (acentuado) um projeto qualquer';
+
+	echo 'Esse presente projeto foi modificadopor um mutante!';
